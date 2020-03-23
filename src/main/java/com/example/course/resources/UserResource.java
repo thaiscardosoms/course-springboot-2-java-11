@@ -13,6 +13,7 @@ public class UserResource {
 	
 	@GetMapping
 	public ResponseEntity<User> findAll(){
+		return null;
 		
 	}
 
